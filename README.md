@@ -231,4 +231,4 @@ Si tienes problemas para iniciar sesión, asegúrate de que:
 
 ## Licencia
 
-MIT 
+MIT
