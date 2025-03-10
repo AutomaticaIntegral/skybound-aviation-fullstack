@@ -1,0 +1,111 @@
+
+{
+  "meta": {
+    "title": "Olmo Aviation - Aerospace Innovation",
+    "description": "Innovative aerospace solutions with precision, reliability, and cutting-edge technology."
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "requestInfo": "Request Information"
+  },
+  "hero": {
+    "title": "Pioneering the Future of Aviation",
+    "subtitle": "Delivering innovative aerospace solutions with precision, reliability, and cutting-edge technology.",
+    "exploreButton": "Explore Our Services",
+    "aboutButton": "About Olmo Aviation"
+  },
+  "about": {
+    "title": "About Olmo Aviation",
+    "subtitle": "A global leader in aerospace innovation with over two decades of experience delivering cutting-edge solutions for commercial and defense applications.",
+    "mission": "Our Mission & Vision",
+    "paragraph1": "At Olmo Aviation, we're committed to advancing the frontiers of aerospace technology through innovation, precision engineering, and unwavering commitment to quality.",
+    "paragraph2": "Our vision is to shape the future of aviation by developing sustainable, efficient, and revolutionary aerospace solutions that transform how people and goods move across the globe.",
+    "values": {
+      "safety": "Safety First",
+      "team": "Expert Team",
+      "precision": "Precision",
+      "excellence": "Excellence"
+    },
+    "yearsExperience": "20+ Years",
+    "experienceText": "Of aerospace industry excellence and innovation"
+  },
+  "stats": {
+    "projectsCompleted": "Projects Completed",
+    "expertEngineers": "Expert Engineers",
+    "countriesServed": "Countries Served",
+    "industryAwards": "Industry Awards"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We deliver comprehensive aerospace solutions that combine innovation, precision engineering, and uncompromising quality.",
+    "items": {
+      "aircraftDesign": {
+        "title": "Aircraft Design",
+        "description": "Innovative design solutions for commercial, military, and private aircraft that optimize performance and efficiency."
+      },
+      "maintenance": {
+        "title": "Maintenance & Repair",
+        "description": "Comprehensive maintenance services with state-of-the-art facilities and certified technicians."
+      },
+      "performance": {
+        "title": "Performance Analysis",
+        "description": "Advanced data analytics and performance monitoring to optimize aircraft operations and reduce costs."
+      },
+      "safety": {
+        "title": "Safety Systems",
+        "description": "Cutting-edge safety systems and protocols that exceed industry standards and regulations."
+      },
+      "avionics": {
+        "title": "Avionics Solutions",
+        "description": "Next-generation avionics technology for enhanced navigation, communication, and flight management."
+      },
+      "training": {
+        "title": "Training Programs",
+        "description": "Specialized training for pilots, engineers, and maintenance personnel using advanced simulators."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have questions or need more information about our services? Our team is ready to assist you.",
+    "getInTouch": "Get in Touch",
+    "getInTouchText": "Fill out the form and one of our representatives will contact you promptly to discuss how Olmo Aviation can meet your aerospace needs.",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "form": {
+      "fullName": "Full Name",
+      "emailAddress": "Email Address",
+      "phoneNumber": "Phone Number",
+      "message": "Message",
+      "messageDetails": "Tell us about your project or inquiry",
+      "sendMessage": "Send Message"
+    }
+  },
+  "footer": {
+    "description": "A global leader in aerospace innovation, delivering cutting-edge solutions for commercial and defense applications with uncompromising quality and precision.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "subtitle": "Content Management",
+    "language": "Select Language",
+    "save": "Save Changes",
+    "success": "Changes saved successfully",
+    "error": "Error saving changes",
+    "login": {
+      "title": "Login",
+      "username": "Username",
+      "password": "Password",
+      "submit": "Login",
+      "error": "Invalid username or password"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+
+{
+  "meta": {
+    "title": "Olmo Aviation - Innovació Aeroespacial",
+    "description": "Solucions aeroespacials innovadores amb precisió, fiabilitat i tecnologia d'avantguarda."
+  },
+  "navbar": {
+    "home": "Inici",
+    "about": "Sobre Nosaltres",
+    "services": "Serveis",
+    "contact": "Contacte",
+    "requestInfo": "Sol·licitar Informació"
+  },
+  "hero": {
+    "title": "Pioners en el Futur de l'Aviació",
+    "subtitle": "Oferim solucions aeroespacials innovadores amb precisió, fiabilitat i tecnologia d'avantguarda.",
+    "exploreButton": "Explorar els Nostres Serveis",
+    "aboutButton": "Sobre Olmo Aviation"
+  },
+  "about": {
+    "title": "Sobre Olmo Aviation",
+    "subtitle": "Un líder global en innovació aeroespacial amb més de dues dècades d'experiència oferint solucions d'avantguarda per a aplicacions comercials i de defensa.",
+    "mission": "La Nostra Missió i Visió",
+    "paragraph1": "A Olmo Aviation, estem compromesos a avançar en les fronteres de la tecnologia aeroespacial a través de la innovació, l'enginyeria de precisió i el compromís inquebrantable amb la qualitat.",
+    "paragraph2": "La nostra visió és donar forma al futur de l'aviació mitjançant el desenvolupament de solucions aeroespacials sostenibles, eficients i revolucionàries que transformin la manera en què les persones i els béns es mouen per tot el món.",
+    "values": {
+      "safety": "Seguretat Primer",
+      "team": "Equip Expert",
+      "precision": "Precisió",
+      "excellence": "Excel·lència"
+    },
+    "yearsExperience": "20+ Anys",
+    "experienceText": "D'excel·lència i innovació en la indústria aeroespacial"
+  },
+  "stats": {
+    "projectsCompleted": "Projectes Completats",
+    "expertEngineers": "Enginyers Experts",
+    "countriesServed": "Països Atesos",
+    "industryAwards": "Premis de la Indústria"
+  },
+  "services": {
+    "title": "Els Nostres Serveis",
+    "subtitle": "Oferim solucions aeroespacials completes que combinen innovació, enginyeria de precisió i qualitat sense compromisos.",
+    "items": {
+      "aircraftDesign": {
+        "title": "Disseny d'Aeronaus",
+        "description": "Solucions de disseny innovadores per a aeronaus comercials, militars i privades que optimitzen el rendiment i l'eficiència."
+      },
+      "maintenance": {
+        "title": "Manteniment i Reparació",
+        "description": "Serveis de manteniment integral amb instal·lacions d'última generació i tècnics certificats."
+      },
+      "performance": {
+        "title": "Anàlisi de Rendiment",
+        "description": "Anàlisi de dades avançades i monitorització del rendiment per optimitzar les operacions d'aeronaus i reduir costos."
+      },
+      "safety": {
+        "title": "Sistemes de Seguretat",
+        "description": "Sistemes i protocols de seguretat d'avantguarda que superen els estàndards i regulacions de la indústria."
+      },
+      "avionics": {
+        "title": "Solucions d'Aviónica",
+        "description": "Tecnologia d'aviónica de pròxima generació per a una navegació, comunicació i gestió de vol millorades."
+      },
+      "training": {
+        "title": "Programes d'Entrenament",
+        "description": "Formació especialitzada per a pilots, enginyers i personal de manteniment utilitzant simuladors avançats."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contacte",
+    "subtitle": "Tens preguntes o necessites més informació sobre els nostres serveis? El nostre equip està preparat per ajudar-te.",
+    "getInTouch": "Posa't en Contacte",
+    "getInTouchText": "Omple el formulari i un dels nostres representants es posarà en contacte amb tu ràpidament per discutir com Olmo Aviation pot satisfer les teves necessitats aeroespacials.",
+    "phone": "Telèfon",
+    "email": "Correu Electrònic",
+    "address": "Adreça",
+    "form": {
+      "fullName": "Nom Complet",
+      "emailAddress": "Adreça de Correu Electrònic",
+      "phoneNumber": "Número de Telèfon",
+      "message": "Missatge",
+      "messageDetails": "Explica'ns sobre el teu projecte o consulta",
+      "sendMessage": "Enviar Missatge"
+    }
+  },
+  "footer": {
+    "description": "Un líder global en innovació aeroespacial, oferint solucions d'avantguarda per a aplicacions comercials i de defensa amb qualitat i precisió sense compromisos.",
+    "quickLinks": "Enllaços Ràpids",
+    "contactInfo": "Informació de Contacte",
+    "rights": "Tots els drets reservats.",
+    "privacy": "Política de Privacitat",
+    "terms": "Termes de Servei"
+  },
+  "admin": {
+    "title": "Panell d'Administració",
+    "subtitle": "Gestió de Continguts",
+    "language": "Seleccionar Idioma",
+    "save": "Desar Canvis",
+    "success": "Canvis desats amb èxit",
+    "error": "Error en desar els canvis",
+    "login": {
+      "title": "Iniciar Sessió",
+      "username": "Usuari",
+      "password": "Contrasenya",
+      "submit": "Entrar",
+      "error": "Usuari o contrasenya incorrectes"
+    }
+  }
+}

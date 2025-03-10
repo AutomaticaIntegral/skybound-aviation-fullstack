@@ -1,0 +1,111 @@
+
+{
+  "meta": {
+    "title": "Olmo Aviation - Innovación Aeroespacial",
+    "description": "Soluciones aeroespaciales innovadoras con precisión, fiabilidad y tecnología de vanguardia."
+  },
+  "navbar": {
+    "home": "Inicio",
+    "about": "Sobre Nosotros",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "requestInfo": "Solicitar Información"
+  },
+  "hero": {
+    "title": "Pioneros en el Futuro de la Aviación",
+    "subtitle": "Soluciones aeroespaciales innovadoras con precisión, fiabilidad y tecnología de vanguardia.",
+    "exploreButton": "Explorar Nuestros Servicios",
+    "aboutButton": "Sobre Olmo Aviation"
+  },
+  "about": {
+    "title": "Sobre Olmo Aviation",
+    "subtitle": "Un líder global en innovación aeroespacial con más de dos décadas de experiencia entregando soluciones de vanguardia para aplicaciones comerciales y de defensa.",
+    "mission": "Nuestra Misión y Visión",
+    "paragraph1": "En Olmo Aviation, estamos comprometidos a avanzar en las fronteras de la tecnología aeroespacial a través de la innovación, la ingeniería de precisión y el compromiso inquebrantable con la calidad.",
+    "paragraph2": "Nuestra visión es dar forma al futuro de la aviación mediante el desarrollo de soluciones aeroespaciales sostenibles, eficientes y revolucionarias que transformen la forma en que las personas y los bienes se mueven por todo el mundo.",
+    "values": {
+      "safety": "Seguridad Primero",
+      "team": "Equipo Experto",
+      "precision": "Precisión",
+      "excellence": "Excelencia"
+    },
+    "yearsExperience": "20+ Años",
+    "experienceText": "De excelencia e innovación en la industria aeroespacial"
+  },
+  "stats": {
+    "projectsCompleted": "Proyectos Completados",
+    "expertEngineers": "Ingenieros Expertos",
+    "countriesServed": "Países Atendidos",
+    "industryAwards": "Premios de la Industria"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Ofrecemos soluciones aeroespaciales completas que combinan innovación, ingeniería de precisión y calidad sin compromisos.",
+    "items": {
+      "aircraftDesign": {
+        "title": "Diseño de Aeronaves",
+        "description": "Soluciones de diseño innovadoras para aeronaves comerciales, militares y privadas que optimizan el rendimiento y la eficiencia."
+      },
+      "maintenance": {
+        "title": "Mantenimiento y Reparación",
+        "description": "Servicios de mantenimiento integral con instalaciones de última generación y técnicos certificados."
+      },
+      "performance": {
+        "title": "Análisis de Rendimiento",
+        "description": "Análisis de datos avanzados y monitoreo del rendimiento para optimizar las operaciones de aeronaves y reducir costos."
+      },
+      "safety": {
+        "title": "Sistemas de Seguridad",
+        "description": "Sistemas y protocolos de seguridad de vanguardia que superan los estándares y regulaciones de la industria."
+      },
+      "avionics": {
+        "title": "Soluciones de Aviónica",
+        "description": "Tecnología de aviónica de próxima generación para una navegación, comunicación y gestión de vuelo mejoradas."
+      },
+      "training": {
+        "title": "Programas de Entrenamiento",
+        "description": "Formación especializada para pilotos, ingenieros y personal de mantenimiento utilizando simuladores avanzados."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¿Tienes preguntas o necesitas más información sobre nuestros servicios? Nuestro equipo está listo para ayudarte.",
+    "getInTouch": "Ponte en Contacto",
+    "getInTouchText": "Completa el formulario y uno de nuestros representantes se pondrá en contacto contigo rápidamente para discutir cómo Olmo Aviation puede satisfacer tus necesidades aeroespaciales.",
+    "phone": "Teléfono",
+    "email": "Correo Electrónico",
+    "address": "Dirección",
+    "form": {
+      "fullName": "Nombre Completo",
+      "emailAddress": "Dirección de Correo Electrónico",
+      "phoneNumber": "Número de Teléfono",
+      "message": "Mensaje",
+      "messageDetails": "Cuéntanos sobre tu proyecto o consulta",
+      "sendMessage": "Enviar Mensaje"
+    }
+  },
+  "footer": {
+    "description": "Un líder global en innovación aeroespacial, entregando soluciones de vanguardia para aplicaciones comerciales y de defensa con calidad y precisión sin compromisos.",
+    "quickLinks": "Enlaces Rápidos",
+    "contactInfo": "Información de Contacto",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  },
+  "admin": {
+    "title": "Panel de Administración",
+    "subtitle": "Gestión de Contenidos",
+    "language": "Seleccionar Idioma",
+    "save": "Guardar Cambios",
+    "success": "Cambios guardados con éxito",
+    "error": "Error al guardar los cambios",
+    "login": {
+      "title": "Iniciar Sesión",
+      "username": "Usuario",
+      "password": "Contraseña",
+      "submit": "Entrar",
+      "error": "Usuario o contraseña incorrectos"
+    }
+  }
+}
